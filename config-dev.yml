@@ -1,2 +1,2 @@
-server:
-  port: 33551
+config:
+  info: helloworld
